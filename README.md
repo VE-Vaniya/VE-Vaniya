@@ -4,20 +4,8 @@
 - 🌱 Learning **JavaScript** and **React** deeply
 - 📫 Reach me: [vaniyaejaz@gmail.com](mailto:vaniyaejaz@gmail.com)
 - ⚡ Fun fact: I love trying new things - food, genres, hobbies, tech... you name it, I'm down!
-- 📜 Portfolio: [vania-ejaz.carrd.co](https://vania-ejaz.carrd.co/)
+-📜 Portfolio: [vania-ejaz.carrd.co](https://vania-ejaz.carrd.co/)
 
-### 🚀 Connect With Me
-<div align="left">
-  <a href="https://github.com/VE-Vaniya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vaniya-ejaz-968209293" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.codedex.io/@titababes" target="_blank">
-    <img src="https://img.shields.io/badge/CodeDex-FF6B00?style=for-the-badge&logo=codepen&logoColor=white" alt="CodeDex"/>
-  </a>
-</div>
 
 ## 🛠️ Languages & Tools
 <p align="left">
@@ -53,8 +41,25 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter" />
     <img width="12" />
 </p>
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VE-Vaniya&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VE-Vaniya&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VE-Vaniya&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VE-Vaniya&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
+</div>
+
+
+### 🚀 Connect With Me
+<div align="left">
+  <a href="https://github.com/VE-Vaniya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaniya-ejaz-968209293" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.codedex.io/@titababes" target="_blank">
+    <img src="https://img.shields.io/badge/CodeDex-FF6B00?style=for-the-badge&logo=codepen&logoColor=white" alt="CodeDex"/>
+  </a>
 </div>
