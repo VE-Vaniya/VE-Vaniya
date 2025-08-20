@@ -3,7 +3,7 @@
 - 🔭 Currently building a **Route Optimization System** 
 - 🌱 Learning **JavaScript** and **React** 
 - 📫 Reach me: [vaniyaejaz@gmail.com](mailto:vaniyaejaz@gmail.com)
-- ⚡ Fun fact: I love trying new things - food, genres, hobbies, tech... you name it, I'm down!
+- ⚡ Fun fact: I love trying new things - food, movie genres, hobbies, tech... you name it, I'm down!
 - 📜 Portfolio: [vania-ejaz.carrd.co](https://vania-ejaz.carrd.co/)
 
 
