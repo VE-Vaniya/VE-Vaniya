@@ -14,8 +14,6 @@
 
 ★ Real problems? That's where the fun is. I prefer solving things that don't have a solution yet.
 
-★ Solutions don't come with instructions. I write them.
-
 ## Languages & Tools
 
 | Category | Tools & Technologies |
