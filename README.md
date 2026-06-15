@@ -6,7 +6,7 @@
 </div>
 
 
-## ★ About Me
+##  About Me
 
 ★ I'm a Software Engineering student at FAST Lahore – because *easy* isn't really my thing.
 
