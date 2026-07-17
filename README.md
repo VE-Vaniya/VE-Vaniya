@@ -8,11 +8,7 @@
 
 ##  About Me
 
-★ I'm a Software Engineering student at FAST Lahore – because *easy* isn't really my thing.
-
-★ Full-fledged systems? Built them. Just don't find them fun.
-
-★ Real problems? That's where the fun is. I prefer solving things that don't have a solution yet.
+★ Evolving. 
 
 ## Languages & Tools
 
