@@ -10,23 +10,6 @@
 
 ★ Evolving. 
 
-## Languages & Tools
-
-| Category | Tools & Technologies |
-|:---|:---|
-| **Frontend** | HTML5 · CSS3 · Tailwind · JavaScript · React Native |
-| **Backend** | Python · C++ · C · Java · Javascript |
-| **Database** | SQL Server · Firebase · MongoDB · PostreSQL |
-| **Version Control** | Git · GitHub |
-
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VE-Vaniya&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VE-Vaniya&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
-</div>
-
 
 ### Connect With Me
 <div align="left">
